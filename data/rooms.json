@@ -1,0 +1,18 @@
+{
+  "rooms": [
+    {
+      "id": "riddle_shadow",
+      "title": "Room 4 (Config)",
+      "intro": "The ground under your feet collapses and you fall into another cave. Written into the wall there is another puzzle for you to solve:\n  \"I follow you all day long, but vanish at night. What am I?\"",
+      "prompt": "Type your answer (or 'hint'): ",
+      "answers": ["shadow", "a shadow", "Shadow"],
+      "hints": {
+        "soft": "It changes length with the sun.",
+        "normal": "You see it behind you in daylight.",
+        "strong": "It is the dark silhouette you cast on the ground."
+      },
+      "success_text": "The wall swallows your word and stairs come out of the wall in front of you. At the end of the stairs there is a map waiting for you telling you how to get to the rescue team. You've finally escaped!",
+      "fail_text": "The inscription remains dull. That wasn't it."
+    }
+  ]
+}
