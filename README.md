@@ -1,4 +1,4 @@
-# MindMaze — Mood-Adaptive Escape Room (Python)
+# MindMaze: A Mood-Adaptive Escape Room (Python)
 
 MindMaze is a short escape-room game played in the terminal. Your inputs, reaction time, and wrong attempts are condensed into a “mood,” which determines how strong the hints are and how the game flow feels. Rooms 1–3 are implemented in the traditional way, while **Room 4** is **loaded from a JSON file** (expandable without additional code).
  
